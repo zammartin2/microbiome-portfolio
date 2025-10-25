@@ -8,7 +8,7 @@
 
 | Анализатор CSV | Визуализация данных |
 |----------------|---------------------|
-| ![CSV Анализатор](https://via.placeholder.com/400x250/F59E0B/FFFFFF?text=CSV+Analyzer) | ![Графики](https://via.placeholder.com/400x250/EF4444/FFFFFF?text=Data+Viz) |
+| ![CSV Анализатор](img/Screenshot_4.png) | ![Графики](img/Screenshot_5.png) |
 
 ## 🛠 Технологический стек
 
