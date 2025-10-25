@@ -4,7 +4,7 @@
 
 | Симулятор микробиома | База знаний микроорганизмов |
 |---------------------|-----------------------------|
-| ![Симулятор](https://via.placeholder.com/400x250/3B82F6/FFFFFF?text=Microbiome+Simulator) | ![База знаний](https://via.placeholder.com/400x250/10B981/FFFFFF?text=Microbe+Database) |
+| ![Симулятор](img/Screenshot_1.png) | ![База знаний](https://via.placeholder.com/400x250/10B981/FFFFFF?text=Microbe+Database) |
 
 | Анализатор CSV | Визуализация данных |
 |----------------|---------------------|
