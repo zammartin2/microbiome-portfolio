@@ -72,5 +72,5 @@ npm install
 ```bash
 npm start
 
-npm run buildproduction
+npm run build production
 ```
